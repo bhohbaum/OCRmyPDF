@@ -2,7 +2,7 @@
 # setup.py lists a separate set of requirements that are looser to simplify
 # installation
 ruffus==2.6.3
-Pillow==10.3.0
+Pillow==12.1.1
 reportlab==3.6.13
 PyPDF2==1.26
 img2pdf==0.2.1
